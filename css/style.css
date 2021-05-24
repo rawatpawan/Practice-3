@@ -70,6 +70,8 @@ h1, h2, h3, h4, h5, h6{
     position: relative;
     /* padding: 100px; */
 }
+
+
 .hero-img2{
     margin-bottom: -250px;
 }
@@ -166,6 +168,8 @@ h2::before{
 }
 #different img{
     margin: 10px;
+    margin-bottom: 30px;
+    height: 25%;
 }
 
 
